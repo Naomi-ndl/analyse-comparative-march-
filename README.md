@@ -56,9 +56,6 @@ ANALYSE_COMPARATIVE/
 └── README.md
 ```
 
-## Installation
-
-1. \
 
 ## Exécution du programme
 
