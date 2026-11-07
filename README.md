@@ -78,5 +78,3 @@ Les résultats des analyses sont enregistrés dans le dossier `resultats/`, nota
 - Calcul du panier par magasin.
 - Calcul du panier mixte.
 - Journal de nettoyage des données.
-
-## &#x20; c'est bon ouuu????
