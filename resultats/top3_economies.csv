@@ -1,0 +1,4 @@
+﻿produit_id,nom_produit,magasin_moins_cher,prix_min,prix_max,ecart_fcfa,ecart_pourcentage
+P04,Tecno Spark 20 128 Go,Baobab Shop,75000.0,779000.0,704000.0,938.67
+P11,HP 250 G9 Core i5 8 Go 512 Go,Baobab Shop,354200.0,407000.0,52800.0,14.91
+P09,Apple iPhone 13 128 Go,Baobab Shop,417200.0,443700.0,26500.0,6.35

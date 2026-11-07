@@ -1,0 +1,77 @@
+﻿source,produit_id,prix_moyen_annuel,prix_moyen_black_friday,ecart_fcfa,reduction_pourcentage,conseil,nom_produit
+Baobab Shop,P01,105994.79452054795,92671.42857142857,13323.365949119383,12.57,Acheter pendant le Black Friday,Samsung Galaxy A15 128 Go
+Baobab Shop,P02,149386.84931506848,134385.7142857143,15001.135029354191,10.04,Acheter pendant le Black Friday,Samsung Galaxy A25 128 Go
+Baobab Shop,P03,282739.72602739726,248642.85714285713,34096.868884540134,12.06,Acheter pendant le Black Friday,Samsung Galaxy A55 256 Go
+Baobab Shop,P04,76323.28767123287,67257.14285714286,9066.144814090017,11.88,Acheter pendant le Black Friday,Tecno Spark 20 128 Go
+Baobab Shop,P05,138727.39726027398,121828.57142857143,16898.825831702547,12.18,Acheter pendant le Black Friday,Tecno Camon 30 256 Go
+Baobab Shop,P06,69193.69863013699,60171.42857142857,9022.270058708418,13.04,Acheter pendant le Black Friday,Infinix Hot 40i 128 Go
+Baobab Shop,P07,134514.5205479452,118257.14285714286,16257.377690802343,12.09,Acheter pendant le Black Friday,Infinix Note 40 256 Go
+Baobab Shop,P09,432451.23287671234,382371.4285714286,50079.80430528376,11.58,Acheter pendant le Black Friday,Apple iPhone 13 128 Go
+Baobab Shop,P10,136343.56164383562,119042.85714285714,17300.704500978478,12.69,Acheter pendant le Black Friday,Xiaomi Redmi Note 13 128 Go
+Baobab Shop,P11,372611.23287671234,333100.0,39511.23287671234,10.6,Acheter pendant le Black Friday,HP 250 G9 Core i5 8 Go 512 Go
+Baobab Shop,P12,311975.0684931507,278785.71428571426,33189.35420743644,10.64,Acheter pendant le Black Friday,Lenovo IdeaPad 3 Core i3 8 Go 256 Go
+Baobab Shop,P14,5880.821917808219,5128.571428571428,752.2504892367906,12.79,Acheter pendant le Black Friday,Clé USB SanDisk 64 Go
+Baobab Shop,P15,37785.20547945205,33214.28571428572,4570.919765166334,12.1,Acheter pendant le Black Friday,Disque dur externe Seagate 1 To
+Baobab Shop,P16,9017.808219178081,7957.142857142857,1060.6653620352245,11.76,Acheter pendant le Black Friday,Souris sans fil Logitech M185
+Baobab Shop,P17,44918.08219178082,39557.142857142855,5360.939334637966,11.93,Acheter pendant le Black Friday,Imprimante HP DeskJet 2720e
+Baobab Shop,P18,28849.86301369863,25914.285714285714,2935.5772994129147,10.18,Acheter pendant le Black Friday,Routeur TP-Link Archer C6
+Baobab Shop,P19,92418.35616438356,81400.0,11018.356164383556,11.92,Acheter pendant le Black Friday,Écran Samsung 24 pouces
+Baobab Shop,P20,190683.2876712329,169828.57142857142,20854.716242661467,10.94,Acheter pendant le Black Friday,Réfrigérateur Hisense 205 L
+Baobab Shop,P22,252569.5890410959,222285.7142857143,30283.874755381607,11.99,Acheter pendant le Black Friday,TV Samsung 43 pouces Crystal UHD
+Baobab Shop,P23,97831.23287671233,86657.14285714286,11174.09001956947,11.42,Acheter pendant le Black Friday,TV Hisense 32 pouces
+Baobab Shop,P24,271455.0684931507,240600.0,30855.0684931507,11.37,Acheter pendant le Black Friday,Climatiseur LG 1 CV
+Baobab Shop,P26,29481.095890410958,25985.714285714286,3495.3816046966713,11.86,Acheter pendant le Black Friday,"Mixeur Moulinex 1,5 L"
+Baobab Shop,P27,14958.90410958904,13342.857142857143,1616.0469667318976,10.8,Acheter pendant le Black Friday,Fer à repasser Philips
+Baobab Shop,P28,64825.75342465754,56814.28571428572,8011.46771037182,12.36,Acheter pendant le Black Friday,Micro-ondes Samsung 23 L
+Baobab Shop,P29,9524.109589041096,8528.57142857143,995.5381604696668,10.45,Acheter pendant le Black Friday,"Bouilloire électrique 1,7 L"
+Baobab Shop,P30,303287.94520547945,265328.5714285714,37959.37377690803,12.52,Acheter pendant le Black Friday,"Climatiseur Hisense 1,5 CV"
+Comptoir Ivoire,P01,116337.7358490566,122500.0,-6162.264150943403,-5.3,Comparer les prix hors Black Friday,Samsung Galaxy A15 128 Go
+Comptoir Ivoire,P02,160216.98113207548,169100.0,-8883.018867924518,-5.54,Comparer les prix hors Black Friday,Samsung Galaxy A25 128 Go
+Comptoir Ivoire,P04,79858.49056603774,83000.0,-3141.509433962259,-3.93,Comparer les prix hors Black Friday,Tecno Spark 20 128 Go
+Comptoir Ivoire,P06,72867.92452830188,74800.0,-1932.0754716981173,-2.65,Comparer les prix hors Black Friday,Infinix Hot 40i 128 Go
+Comptoir Ivoire,P08,46181.1320754717,47100.0,-918.8679245282983,-1.99,Comparer les prix hors Black Friday,Itel A70 64 Go
+Comptoir Ivoire,P09,460530.1886792453,475600.0,-15069.8113207547,-3.27,Comparer les prix hors Black Friday,Apple iPhone 13 128 Go
+Comptoir Ivoire,P11,414460.37735849054,423500.0,-9039.622641509457,-2.18,Comparer les prix hors Black Friday,HP 250 G9 Core i5 8 Go 512 Go
+Comptoir Ivoire,P12,316349.0566037736,330500.0,-14150.943396226387,-4.47,Comparer les prix hors Black Friday,Lenovo IdeaPad 3 Core i3 8 Go 256 Go
+Comptoir Ivoire,P13,466705.6603773585,483000.0,-16294.339622641506,-3.49,Comparer les prix hors Black Friday,Dell Inspiron 15 Core i5 16 Go 512 Go
+Comptoir Ivoire,P14,6567.924528301887,6900.0,-332.0754716981128,-5.06,Comparer les prix hors Black Friday,Clé USB SanDisk 64 Go
+Comptoir Ivoire,P15,41156.6037735849,42900.0,-1743.3962264150978,-4.24,Comparer les prix hors Black Friday,Disque dur externe Seagate 1 To
+Comptoir Ivoire,P16,9386.792452830188,9600.0,-213.20754716981173,-2.27,Comparer les prix hors Black Friday,Souris sans fil Logitech M185
+Comptoir Ivoire,P20,208803.77358490566,218400.0,-9596.226415094337,-4.6,Comparer les prix hors Black Friday,Réfrigérateur Hisense 205 L
+Comptoir Ivoire,P21,187537.7358490566,195600.0,-8062.264150943403,-4.3,Comparer les prix hors Black Friday,Congélateur Nasco 200 L
+Comptoir Ivoire,P22,265737.7358490566,276200.0,-10462.264150943374,-3.94,Comparer les prix hors Black Friday,TV Samsung 43 pouces Crystal UHD
+Comptoir Ivoire,P23,102926.41509433962,106800.0,-3873.5849056603765,-3.76,Comparer les prix hors Black Friday,TV Hisense 32 pouces
+Comptoir Ivoire,P24,298911.320754717,310700.0,-11788.679245283012,-3.94,Comparer les prix hors Black Friday,Climatiseur LG 1 CV
+Comptoir Ivoire,P25,24667.924528301886,25500.0,-832.0754716981137,-3.37,Comparer les prix hors Black Friday,Ventilateur sur pied Binatone 16 pouces
+Comptoir Ivoire,P26,29801.88679245283,30300.0,-498.1132075471687,-1.67,Comparer les prix hors Black Friday,"Mixeur Moulinex 1,5 L"
+Comptoir Ivoire,P27,16509.43396226415,17200.0,-690.5660377358508,-4.18,Comparer les prix hors Black Friday,Fer à repasser Philips
+Comptoir Ivoire,P28,71379.24528301887,74000.0,-2620.7547169811296,-3.67,Comparer les prix hors Black Friday,Micro-ondes Samsung 23 L
+Comptoir Ivoire,P29,9649.056603773584,10100.0,-450.94339622641564,-4.67,Comparer les prix hors Black Friday,"Bouilloire électrique 1,7 L"
+Marché Lagune,P01,104923.56164383562,91157.14285714286,13766.418786692768,13.12,Acheter pendant le Black Friday,Samsung Galaxy A15 128 Go
+Marché Lagune,P02,159873.698630137,142114.2857142857,17759.41291585128,11.11,Acheter pendant le Black Friday,Samsung Galaxy A25 128 Go
+Marché Lagune,P03,302331.23287671234,268014.28571428574,34316.9471624266,11.35,Acheter pendant le Black Friday,Samsung Galaxy A55 256 Go
+Marché Lagune,P04,82375.34246575342,73571.42857142857,8803.913894324854,10.69,Acheter pendant le Black Friday,Tecno Spark 20 128 Go
+Marché Lagune,P05,142813.698630137,125328.57142857143,17485.127201565556,12.24,Acheter pendant le Black Friday,Tecno Camon 30 256 Go
+Marché Lagune,P06,70441.3698630137,60957.142857142855,9484.227005870838,13.46,Acheter pendant le Black Friday,Infinix Hot 40i 128 Go
+Marché Lagune,P07,141107.12328767125,125971.42857142857,15135.69471624268,10.73,Acheter pendant le Black Friday,Infinix Note 40 256 Go
+Marché Lagune,P08,47618.90410958904,42200.0,5418.9041095890425,11.38,Acheter pendant le Black Friday,Itel A70 64 Go
+Marché Lagune,P09,453514.2465753425,404642.85714285716,48871.38943248533,10.78,Acheter pendant le Black Friday,Apple iPhone 13 128 Go
+Marché Lagune,P10,142178.08219178082,125800.0,16378.08219178082,11.52,Acheter pendant le Black Friday,Xiaomi Redmi Note 13 128 Go
+Marché Lagune,P11,412084.38356164383,369871.4285714286,42212.95499021525,10.24,Acheter pendant le Black Friday,HP 250 G9 Core i5 8 Go 512 Go
+Marché Lagune,P12,325386.30136986304,292157.14285714284,33229.1585127202,10.21,Acheter pendant le Black Friday,Lenovo IdeaPad 3 Core i3 8 Go 256 Go
+Marché Lagune,P13,471420.8219178082,426657.14285714284,44763.67906066537,9.5,Acheter pendant le Black Friday,Dell Inspiron 15 Core i5 16 Go 512 Go
+Marché Lagune,P14,6281.095890410959,5571.428571428572,709.6673189823878,11.3,Acheter pendant le Black Friday,Clé USB SanDisk 64 Go
+Marché Lagune,P15,40103.01369863014,36528.57142857143,3574.4422700587093,8.91,Acheter pendant le Black Friday,Disque dur externe Seagate 1 To
+Marché Lagune,P16,9436.438356164384,8300.0,1136.4383561643845,12.04,Acheter pendant le Black Friday,Souris sans fil Logitech M185
+Marché Lagune,P17,45101.91780821918,39728.57142857143,5373.346379647752,11.91,Acheter pendant le Black Friday,Imprimante HP DeskJet 2720e
+Marché Lagune,P19,102561.09589041096,91957.14285714286,10603.953033268102,10.34,Acheter pendant le Black Friday,Écran Samsung 24 pouces
+Marché Lagune,P20,194892.60273972602,172642.85714285713,22249.74559686889,11.42,Acheter pendant le Black Friday,Réfrigérateur Hisense 205 L
+Marché Lagune,P21,180819.1780821918,157871.42857142858,22947.749510763213,12.69,Acheter pendant le Black Friday,Congélateur Nasco 200 L
+Marché Lagune,P22,266013.4246575342,238328.57142857142,27684.853228962806,10.41,Acheter pendant le Black Friday,TV Samsung 43 pouces Crystal UHD
+Marché Lagune,P23,102717.53424657535,91514.28571428571,11203.24853228964,10.91,Acheter pendant le Black Friday,TV Hisense 32 pouces
+Marché Lagune,P24,272130.41095890413,239700.0,32430.410958904133,11.92,Acheter pendant le Black Friday,Climatiseur LG 1 CV
+Marché Lagune,P25,22238.35616438356,19271.428571428572,2966.9275929549876,13.34,Acheter pendant le Black Friday,Ventilateur sur pied Binatone 16 pouces
+Marché Lagune,P26,31449.31506849315,28414.285714285714,3035.029354207436,9.65,Acheter pendant le Black Friday,"Mixeur Moulinex 1,5 L"
+Marché Lagune,P27,16651.780821917808,14914.285714285714,1737.495107632094,10.43,Acheter pendant le Black Friday,Fer à repasser Philips
+Marché Lagune,P28,70319.45205479451,62357.142857142855,7962.309197651659,11.32,Acheter pendant le Black Friday,Micro-ondes Samsung 23 L
+Marché Lagune,P30,318596.98630136985,273500.0,45096.98630136985,14.15,Acheter pendant le Black Friday,"Climatiseur Hisense 1,5 CV"
